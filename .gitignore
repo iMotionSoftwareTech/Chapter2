@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+/Chapter2/.vs/Chapter2.slnx
+/Chapter2/Chapter2/bin/Debug/netcoreapp3.1
+/Chapter2/Chapter2/obj
