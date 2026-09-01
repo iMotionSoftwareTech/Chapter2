@@ -23,3 +23,7 @@
 /Chapter2/InferringValueTypes/bin/Debug/netcoreapp3.1
 /Chapter2/InferringValueTypes/obj/Debug/netcoreapp3.1
 /Chapter2/InferringValueTypes/obj
+/Chapter2/Chapter2.Shared/bin/Debug/netcoreapp3.1
+/Chapter2/Chapter2.Shared/obj
+/Chapter2/NullableValueTypes/bin/Debug/netcoreapp3.1
+/Chapter2/NullableValueTypes/obj
