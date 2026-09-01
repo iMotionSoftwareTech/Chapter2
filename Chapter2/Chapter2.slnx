@@ -1,6 +1,8 @@
 <Solution>
+  <Project Path="Chapter2.Shared/Chapter2.Shared.csproj" Id="2673f7cb-2a5d-4ae8-ab4b-aeca3c951366" />
   <Project Path="Chapter2/Chapter2.csproj" />
   <Project Path="InferringValueTypes/InferringValueTypes.csproj" Id="d1c87dec-4353-4162-a06c-5252870be7ad" />
+  <Project Path="NullableValueTypes/NullableValueTypes.csproj" Id="fed8c8e3-b3e6-43c2-aa5a-5570cc52c18f" />
   <Project Path="NumberAndDateFormatConsoleApp/NumberAndDateFormatConsoleApp.csproj" Id="f96c7b2f-d1d4-4372-9841-b94220120e6a" />
   <Project Path="QuantifiedMethods/QuantifiedMethods.csproj" Id="27930477-e855-4fd2-9bef-9f85075dd1c4" />
   <Project Path="StoringNumbers/StoringNumbers.csproj" Id="d453ce48-3406-4862-b40d-35794c142658" />
