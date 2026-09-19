@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Chapter2.Shared/Chapter2.Shared.csproj" Id="2673f7cb-2a5d-4ae8-ab4b-aeca3c951366" />
   <Project Path="Chapter2/Chapter2.csproj" />
+  <Project Path="GetKeyInputArguments/GetKeyInputArguments.csproj" Id="4412639e-f1b0-4029-a9ef-f24529e0175f" />
   <Project Path="InferringValueTypes/InferringValueTypes.csproj" Id="d1c87dec-4353-4162-a06c-5252870be7ad" />
   <Project Path="NullableValueTypes/NullableValueTypes.csproj" Id="fed8c8e3-b3e6-43c2-aa5a-5570cc52c18f" />
   <Project Path="NumberAndDateFormatConsoleApp/NumberAndDateFormatConsoleApp.csproj" Id="f96c7b2f-d1d4-4372-9841-b94220120e6a" />
