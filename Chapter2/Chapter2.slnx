@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Chapter2.Shared/Chapter2.Shared.csproj" Id="2673f7cb-2a5d-4ae8-ab4b-aeca3c951366" />
   <Project Path="Chapter2/Chapter2.csproj" />
+  <Project Path="DiceRollGame/DiceRollGame.csproj" Id="5551f9a9-7655-43aa-bf28-a7e3d42817ff" />
   <Project Path="GetKeyInputArguments/GetKeyInputArguments.csproj" Id="4412639e-f1b0-4029-a9ef-f24529e0175f" />
   <Project Path="InferringValueTypes/InferringValueTypes.csproj" Id="d1c87dec-4353-4162-a06c-5252870be7ad" />
   <Project Path="NullableValueTypes/NullableValueTypes.csproj" Id="fed8c8e3-b3e6-43c2-aa5a-5570cc52c18f" />
@@ -9,5 +10,7 @@
   <Project Path="StoringNumbers/StoringNumbers.csproj" Id="d453ce48-3406-4862-b40d-35794c142658" />
   <Project Path="StoringReferenceTypes/StoringReferenceTypes.csproj" Id="c92b5df9-1f62-43ef-b3b9-cbe41354e6d3" />
   <Project Path="StringFormatting/StringFormatting.csproj" Id="0ee8312d-4328-402b-8fbc-3104b4e8824f" />
+  <Project Path="SubscriptionRenewal/SubscriptionRenewal.csproj" Id="f5d7ab77-2fbc-470b-84d7-563b5c3c4a69" />
+  <Project Path="TipCalculator/TipCalculator.csproj" Id="64834289-1537-4347-91b3-12a0dbb2b1c3" />
   <Project Path="VariableFoundation/VariableFoundation.csproj" Id="3b6334e9-68c7-4df2-8675-f3230179fe08" />
 </Solution>
